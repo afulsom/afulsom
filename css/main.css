@@ -326,7 +326,7 @@ a {
 }
 
 a:hover {
-  color: #e85151;
+  color: #60ba46;
 }
 
 header {
@@ -334,7 +334,7 @@ header {
   margin-left: auto;
   margin-right: auto;
   margin-top: 4em;
-  border-top: 2px solid #e85151;
+  border-top: 2px solid #60ba46;
   opacity: 0;
   -webkit-transform: translateY(50px);
   -moz-transform: translateY(50px);
@@ -387,12 +387,12 @@ header #logo-container #logo {
   float: none;
 }
 header #logo-container #subtitle {
-  color: #e85151;
+  color: #60ba46;
   font-weight: bold;
   font-size: 18px;
 }
 header a {
-  color: #e85151;
+  color: #60ba46;
   text-decoration: none;
   border: none;
 }
@@ -536,7 +536,7 @@ header nav ul li a.bordered {
   text-transform: uppercase;
   font-size: 1.0em;
   font-weight: bold;
-  color: #e85151;
+  color: #60ba46;
   margin-bottom: 0.05em;
 }
 #content section.row p {
@@ -547,13 +547,13 @@ header nav ul li a.bordered {
   text-transform: uppercase;
   font-size: 1.25em;
   font-weight: bold;
-  color: #e85151;
+  color: #60ba46;
   margin-bottom: 0.05em;
   border-radius: 0.2em;
   padding: 0.4em;
   padding-left: 0.8em;
   padding-right: 0.8em;
-  border: 2px solid #e85151;
+  border: 2px solid #60ba46;
 }
 #content section.row .col, #content section.row .col-full {
   float: left;
