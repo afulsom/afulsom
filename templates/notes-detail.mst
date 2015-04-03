@@ -1,0 +1,6 @@
+<ol class="breadcrumb">
+  <li><a href="#notes">Notes</a></li>
+  <li class="active">{{note.title}}</li>
+</ol>
+<h1>{{ note.title }}</h1>
+<p>{{ note.text }}</p>
