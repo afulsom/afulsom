@@ -1,0 +1,6 @@
+<ol class="breadcrumb">
+  <li><a href="#monsters">Monsters</a></li>
+  <li class="active">{{monster.name}}</li>
+</ol>
+<h1>{{monster.name}}</h1>
+

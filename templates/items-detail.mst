@@ -1,0 +1,6 @@
+<ol class="breadcrumb">
+  <li><a href="#items">Items</a></li>
+  <li class="active">{{item.name}}</li>
+</ol>
+<h1>{{item.name}}</h1>
+

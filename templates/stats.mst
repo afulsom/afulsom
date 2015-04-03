@@ -1,0 +1,5 @@
+<ul style="list-style:none; margin-top:20px">
+{{#stats}}
+    <li><h3>{{name}}</h3><p>{{desc}}</p><li>
+{{/stats}}
+</ul>
