@@ -358,6 +358,12 @@ header:after {
     margin-top: 2em;
   }
 }
+
+header #login {
+  float: right;
+  display: block;
+}
+
 header #logo-container {
   float: left;
   display: block;
